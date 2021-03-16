@@ -6,6 +6,9 @@ Randy Groncki	2021-03-16
 
 Invoke BI Pub report with PeopleCode
 
+Walkthrough Documentation: https://peopletoolstechtips.com/invoking-bi-publisher-with-peoplecode/
+YouTube demo: https://youtu.be/LQCCwPeGKYU
+
 Contact: 
    randy@peopletoolstechtips.com
    PeopleToolsTechTips@Gmail.com
